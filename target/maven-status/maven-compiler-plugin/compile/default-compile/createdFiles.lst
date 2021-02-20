@@ -1,0 +1,7 @@
+labs/td/repository/UserRepository.class
+labs/td/App.class
+labs/td/service/UserService.class
+labs/td/controller/UserController.class
+labs/td/AppConfig.class
+labs/td/controller/TheController.class
+labs/td/repository/User.class
